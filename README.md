@@ -2,6 +2,10 @@
 
 https://github.com/user-attachments/assets/9125518d-e6be-4da6-902b-681c2ab1f78b
 
+## TDS
+[Link here!]([https://www.google.com](https://medium.com/@abhishek.sabnis2000/multiple-object-tracking-with-yolo-sift-and-kalman-filter-684088268e8e)) for a detailed explaination of the theory.
+
+
 ## Introduction
 This repository contains code to implement online detection-based Multiple Object Tracking.
 We use Yolov11 to detect bounding boxes. Combination of Kalman Filter with SIFT descriptor is implemented to capture the motion model and appearance model.
