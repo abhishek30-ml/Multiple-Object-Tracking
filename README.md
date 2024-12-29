@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/9125518d-e6be-4da6-902b-681c2ab1f78b
 
-## TDS
+## Article
 [Link here!](https://medium.com/@abhishek.sabnis2000/multiple-object-tracking-with-yolo-sift-and-kalman-filter-684088268e8e) for a detailed explaination of the theory.
 
 
